@@ -5,6 +5,10 @@ public class differenceOf1 {
 
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
-        
+        for (int i = 0; i < t; i++) {
+            int n = sc.nextInt();
+            long k = sc.nextLong();
+
+        }
     }
 }
