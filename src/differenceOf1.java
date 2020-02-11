@@ -27,6 +27,11 @@ public class differenceOf1 {
                             } else
                                 break;
                         }
+                        if (n11 + 1 == s.length()) {
+                            System.out.print(s + " ");
+                            temp = 1;
+                        }
+
 
 
                     }
