@@ -37,6 +37,9 @@ public class differenceOf1 {
                     }
                 }
             }
+            if (temp == 0)
+                System.out.print("-1");
+            System.out.println();
         }
     }
 }
